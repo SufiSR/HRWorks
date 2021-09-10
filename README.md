@@ -2,7 +2,7 @@
 Signing Algorithm Demo for HRWorks (written in Python 3.7)
 
 ## Libraries to be installed ##
-https://docs.python-requests.org/en/master/
+Requests 2.26.0: https://docs.python-requests.org/en/master/
 
 ## Usage ##
 Download the source code and add your credentials.
