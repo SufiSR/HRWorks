@@ -1,5 +1,5 @@
 # HRWorks
-Signing Algorithm Demo for HRWorks (written in Python 3.7) (DEPRECATED) - Please see new authorization mechanism for HRWorks API V2
+Signing Algorithm Demos for HRWorks API V1 and also API V2 (written in Python 3.7)
 
 ## Libraries to be installed ##
 Requests 2.26.0: https://docs.python-requests.org/en/master/
